@@ -17,8 +17,8 @@ func main() {
 	var bbase int
 	var height int
 
-	fmt.Println("Area of a Trapezoid, with JS\n")
-	fmt.Println("A = [(a+b) / 2] x h\n")
+	fmt.Println("Area of a Trapezoid, with JS")
+	fmt.Println("A = [(a+b) / 2] x h")
 	fmt.Println()
 
 	// User Input
